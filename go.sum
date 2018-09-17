@@ -1,0 +1,12 @@
+code.cloudfoundry.org/bytefmt v0.0.0-20180906201452-2aa6f33b730c h1:VzwteSWGbW9mxXTEkH+kpnao5jbgLynw3hq742juQh8=
+code.cloudfoundry.org/bytefmt v0.0.0-20180906201452-2aa6f33b730c/go.mod h1:wN/zk7mhREp/oviagqUXY3EwuHhWyOvAdsn5Y4CzOrc=
+github.com/mattn/go-runewidth v0.0.3 h1:a+kO+98RDGEfo6asOGMmpodZq4FNtnGP54yps8BzLR4=
+github.com/mattn/go-runewidth v0.0.3/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
+github.com/olekukonko/tablewriter v0.0.0-20180912035003-be2c049b30cc h1:rQ1O4ZLYR2xXHXgBCCfIIGnuZ0lidMQw2S5n1oOv+Wg=
+github.com/olekukonko/tablewriter v0.0.0-20180912035003-be2c049b30cc/go.mod h1:vsDQFd/mU46D+Z4whnwzcISnGGzXWMclvtLoiIKAKIo=
+github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
+github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
+golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e h1:o3PsSEY8E4eXWkXrIP9YJALUkVZqzHJT5DOasTyn8Vs=
+golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/vgo v0.0.0-20180912184537-9d567625acf4 h1:ouUW0k6XvH360Tr2/HkzQWY7/aU+3QVkfWnrRNf2udQ=
+golang.org/x/vgo v0.0.0-20180912184537-9d567625acf4/go.mod h1:rPwukS3Aj8LZv1dK2rFNXSfYxdueYuvBJ7u3uL3f47I=
